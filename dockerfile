@@ -1,3 +1,4 @@
+FROM centos:7
 FROM nginx
 
 MAINTAINER dkey
